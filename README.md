@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-https://img.shields.io/badge/LinkedIn-blue
+<img src="https://camo.githubusercontent.com/90a74ae0a71fe85f07b4c53474f8673cd4c43b5bc01e78ebd44bcad51d09f9a7/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d416e6b697450616e67656e69266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="BipinKhanal" data-canonical-src="https://komarev.com/ghpvc/?username=dyells07&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 
                                  🏔. Hobby 1 (Rapping)  
                                  📚. Hobby 2 (Reading)  
