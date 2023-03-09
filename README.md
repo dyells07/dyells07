@@ -6,7 +6,7 @@
 </div>
 
 
-                                 🏔. Hobby 1 (Rapping)  
+                                 🎤. Hobby 1 (Rapping)  
                                  📚. Hobby 2 (Reading)  
                                  💻. Hobby 3 (Programming) 
 <p>
