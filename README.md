@@ -4,9 +4,6 @@
 <h3 align="center">A passionate IT individual from Nepal</h3>
 <img align="right" alt="Coding" width="400" src=https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 
                                  🎤. Hobby 1 (Rapping)  
