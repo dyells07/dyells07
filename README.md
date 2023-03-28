@@ -1,5 +1,8 @@
 # HELLO 
-#I AM BIPIN
+![MasterHead]( https://rishavanand.github.io/static/images/greetings.gif)
+<h1 align="center">Hi, I'm Bipin Khanal</h1>
+<h3 align="center">A passionate IT individual from Nepal</h3>
+<img align="right" alt="Coding" width="400" src=https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -27,11 +30,4 @@
    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
 
