@@ -2,7 +2,7 @@
 ![MasterHead]( https://rishavanand.github.io/static/images/greetings.gif)
 <h1 align="center">Hi, I'm Bipin Khanal</h1>
 <h3 align="center">A passionate IT individual from Nepal</h3>
-<img align="right" alt="Coding" width="400" src=https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif>
+
 
 
 
