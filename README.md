@@ -1,4 +1,4 @@
-# HELLO 
+# dyells07.github.io
 ![MasterHead]( https://rishavanand.github.io/static/images/greetings.gif)
 <h1 align="center">Hi, I'm Bipin Khanal</h1>
 <h3 align="center">A passionate IT individual from Nepal</h3>
