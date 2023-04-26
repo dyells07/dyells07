@@ -1,6 +1,6 @@
 # Welcome to dyells07's GitHub page!
 
-![Greetings](https://rishavanand.github.io/static/images/greetings.gif)
+<img src="https://media.giphy.com/media/5ZcCe6yO1hKxYlqQWF/giphy.gif" alt="Greetings">
 
 ## About Me
 
