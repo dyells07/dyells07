@@ -12,7 +12,7 @@ Hi there, I'm dyells07 - a developer from [Nepal](https://en.wikipedia.org/wiki/
 
 ## Skills
 
-Here are some of the languages and frameworks I'm familiar with:
+Here are some of the languages, frameworks, and technologies I'm familiar with:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,6 +21,7 @@ Here are some of the languages and frameworks I'm familiar with:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![C# & .NET](https://img.shields.io/badge/C%23%20%26%20.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 And some frameworks:
 
