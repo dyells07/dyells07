@@ -1,4 +1,4 @@
-# Welcome to dyells07's GitHub page!
+
 
 <img src="https://media.giphy.com/media/5ZcCe6yO1hKxYlqQWF/giphy.gif" alt="Greetings">
 
@@ -9,7 +9,9 @@ Hi there, I'm dyells07 - a developer from [Nepal](https://en.wikipedia.org/wiki/
 - 🎤 Rapping
 - 📚 Reading
 - 💻 Programming
-
+```c
+toastr.info('Hello', 'World');
+```
 ## Skills
 
 Here are some of the languages and frameworks I'm familiar with:
