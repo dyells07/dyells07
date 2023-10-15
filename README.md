@@ -1,6 +1,5 @@
 # Welcome to dyells07's GitHub page!
-
-<img src="https://media.giphy.com/media/5ZcCe6yO1hKxYlqQWF/giphy.gif" alt="Greetings">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dyells07&label=Profile%20views&color=0e75b6&style=flat" alt="dyells07" /> </p>
 
 ## About Me
 
