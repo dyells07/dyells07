@@ -30,7 +30,9 @@ And some frameworks:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Stats
-
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyells07&theme=tokyonight" alt="dyells07" /></p>
+</p>
 Here's a list of the programming languages I've used on GitHub:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyells07&layout=compact&theme=radical)
