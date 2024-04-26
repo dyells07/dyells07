@@ -32,6 +32,13 @@ And some frameworks:
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyells07&theme=tokyonight" alt="dyells07" /></p>
 </p>
+<div align="center">
+  
+| ![bipin's github stats](https://github-readme-stats.vercel.app/api?username=dyells07&show_icons=true&theme=radical&count_private=true) |          ![Bipin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dyells07&theme=radical)                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+  
+</div>
 Here's a list of the programming languages I've used on GitHub:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyells07&layout=compact&theme=radical)
