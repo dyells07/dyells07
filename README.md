@@ -29,9 +29,7 @@ And some frameworks:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Stats
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyells07&theme=tokyonight" alt="dyells07" /></p>
-</p>
+
 <div align="center">
   
 | ![bipin's github stats](https://github-readme-stats.vercel.app/api?username=dyells07&show_icons=true&theme=radical&count_private=true) |          ![Bipin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dyells07&theme=radical)                                                                                                     |
