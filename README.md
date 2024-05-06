@@ -33,6 +33,7 @@ And some frameworks:
 ![SignalR](https://img.shields.io/badge/SignalR-764ABC?style=for-the-badge&logo=signalr&logoColor=white)
 ![Transact-SQL](https://img.shields.io/badge/Transact_SQL-003366?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![RDLC](https://img.shields.io/badge/RDLC-00ADEF?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
 ## Stats
