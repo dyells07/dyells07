@@ -27,6 +27,13 @@ And some frameworks:
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![.NET MVC](https://img.shields.io/badge/.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![.NET WebAPI](https://img.shields.io/badge/.NET_WebAPI-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-764ABC?style=for-the-badge&logo=signalr&logoColor=white)
+![Transact-SQL](https://img.shields.io/badge/Transact_SQL-003366?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
 
 ## Stats
 <div align="center">
