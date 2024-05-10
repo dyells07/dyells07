@@ -3,11 +3,10 @@
 
 ## About Me
 
-Hi there, I'm dyells07 - a developer from [Nepal](https://en.wikipedia.org/wiki/Nepal)! Here are a few of my hobbies:
+Hi there, I'm dyells07 - a developer from [Nepal](https://en.wikipedia.org/wiki/Nepal)!
+## Trophy
 
-- 🎤 Rapping
-- 📚 Reading
-- 💻 Programming
+[![trophy](https://github-profile-trophy.vercel.app/?username=dyells07&theme=onedark)](https://github.com/dyells07/github-profile-trophy)
 
 ## Skills
 
@@ -61,3 +60,5 @@ Here are some of the languages and frameworks I have tried and familiar with:
 Here's a list of the programming languages I've used on GitHub:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyells07&layout=compact&theme=radical)
+
+
