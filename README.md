@@ -40,6 +40,7 @@ Here are some of the languages and frameworks I have tried and familiar with:
 ![ASPX](https://img.shields.io/badge/ASPX-008080?style=for-the-badge&logo=asp.net&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![jsreport](https://img.shields.io/badge/jsreport-39456B?style=for-the-badge&logo=jsreport&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 #### Database Tools:
 ![Transact-SQL](https://img.shields.io/badge/Transact_SQL-003366?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
