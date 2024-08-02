@@ -1,4 +1,4 @@
-# Welcome to dyells07's GitHub page!
+# Welcome to Bipin Khanal's GitHub page!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dyells07&label=Profile%20views&color=0e75b6&style=flat" alt="dyells07" /> </p>
 
 ## About Me
