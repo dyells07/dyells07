@@ -1,6 +1,5 @@
 # Welcome to Bipin Khanal's GitHub page!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dyells07&label=Profile%20views&color=0e75b6&style=flat" alt="dyells07" /> </p>
-
+<img src="https://profile-counter.glitch.me/dyells07/count.svg" />
 ## About Me
 
 Hi there, I'm dyells07 - a developer from [Nepal](https://en.wikipedia.org/wiki/Nepal)!
