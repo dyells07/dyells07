@@ -1,6 +1,5 @@
 # Welcome to Bipin Khanal's GitHub page!
 <img src="https://profile-counter.glitch.me/dyells07/count.svg" />
-Hi there, I'm Bipin Khanal- a developer from [Nepal](https://en.wikipedia.org/wiki/Nepal)!
 
 #### Skills
 
