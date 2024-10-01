@@ -4,7 +4,7 @@
 
 Hi there, I'm Bipin Khanal- a developer from [Nepal](https://en.wikipedia.org/wiki/Nepal)!
 
-## Skills
+#### Skills
 
 Here are some of the languages and frameworks I have tried and familiar with:
 #### Frontend :
