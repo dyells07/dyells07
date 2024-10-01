@@ -3,9 +3,6 @@
 ## About Me
 
 Hi there, I'm Bipin Khanal- a developer from [Nepal](https://en.wikipedia.org/wiki/Nepal)!
-## Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dyells07&theme=onedark)](https://github.com/dyells07/github-profile-trophy)
 
 ## Skills
 
