@@ -1,4 +1,3 @@
-# Welcome to Bipin Khanal's GitHub page!
 <img src="https://profile-counter.glitch.me/dyells07/count.svg" />
 
 #### Skills
