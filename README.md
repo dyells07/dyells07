@@ -48,7 +48,6 @@
 
   
 </div>
-Here's a list of the programming languages I've used on GitHub:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyells07&layout=compact&theme=radical)
 
