@@ -43,7 +43,7 @@
 ## Stats
 <div align="center">
   
-| ![bipin's github stats](https://github-readme-stats.vercel.app/api?username=dyells07&show_icons=true&theme=radical&count_private=true) |          ![Bipin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dyells07&theme=radical)                                                                                                     |
+| ![bipin's github stats](https://github-readme-stats.vercel.app/api?username=dyells07&show_icons=true&theme=radical&count_private=true) |         [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dyells07)](https://git.io/streak-stats)                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
   
