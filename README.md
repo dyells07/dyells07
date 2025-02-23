@@ -43,7 +43,7 @@
 ## Stats
 <div align="center">
   
-| ![bipin's github stats](https://github-readme-stats.vercel.app/api?username=dyells07&show_icons=true&theme=radical&count_private=true) |         [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dyells07&theme=dark&hide_border=true&locale=ne&date_format=%5BY%20%5DM%20j&fire=EBE639)](https://git.io/streak-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dyells07)](https://git.io/streak-stats)                                                                                                     |
+| ![bipin's github stats](https://github-readme-stats.vercel.app/api?username=dyells07&show_icons=true&theme=radical&count_private=true) |         [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dyells07&theme=dark&hide_border=true&locale=ne&date_format=%5BY%20%5DM%20j&fire=EBE639)](https://git.io/streak-stats)                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
   
